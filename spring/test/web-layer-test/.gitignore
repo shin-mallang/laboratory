@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/intellij+all,java,macos,git
-# Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,java,macos,git
+# Created by https://www.toptal.com/developers/gitignore/api/macos,git,intellij+all,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,git,intellij+all,java
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -163,4 +163,4 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-# End of https://www.toptal.com/developers/gitignore/api/intellij+all,java,macos,git
+# End of https://www.toptal.com/developers/gitignore/api/macos,git,intellij+all,java
